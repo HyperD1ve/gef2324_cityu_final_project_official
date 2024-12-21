@@ -1,6 +1,11 @@
 # gef2324_cityu_final_project
 The final project of the CityU GEF 2023-2024 GenAI OSALP course
 
+## Libraries and dependencies
+Remember to set up a virtual environment by running `python3 -m venv my_venv` and `source my_venv/bin/activate`
+Then just run  `./requirements.sh` to install all the requirements for our project.
+It should be around 2GB of space.
+
 ## Streamlit
 You may run the app by running
 `cd streamlit`
